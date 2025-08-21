@@ -1,6 +1,7 @@
 # appleville
 auto farm applevile
 
+-- appleville memiliki recaptcha yang harus dipecahkan secara manual setiap 24 jam agar script bekerja
 
 agoritma bot ini adalah memperioritaskan 11 plot terlebih dahulu (algo wheat+fertiliser), setelah tercapai bot akan memprioritaskan penukaran ap exchange untuk mendapatkan kurang lebih 2300 AP, ketika jumlah ap lebih dari atau sama dengan 2300, bot akan melalukan farming AP dengan golden apple+quantum fertiliser
 
