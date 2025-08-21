@@ -22,5 +22,6 @@ alur 3 = jika alur 1, 2 tercapai dan jumlah AP lebih dari 2300 dan AP exchange l
 
 catatan!!!
 Kamu harus membeli booster secara manual (wajib menggunakan booster),minimal harus ada 11 booster di inventori
-jika algo bot masih menanam wheat, belilah fertilizser
-jika algo bot menanam golden apple, belilah quantum vertilizer
+
+jika algo bot masih menanam wheat belilah fertilizser
+jika algo bot menanam golden apple belilah quantum vertilizer
